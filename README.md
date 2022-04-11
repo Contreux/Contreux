@@ -12,6 +12,8 @@ I've built:
 - **Subquery project** (Subquery/GraphQL/Typescript) -> Contracted 
 - **Autostaking Tokens** (Solidity) -> Unlaunched
 - **Olympus protocol fork** (Solidity/Full stack) -> Redistributed 
+- **NFT2.0 open listing NFT standard** (Solidity) -> In progress 
+- **Blockchain ETF protocol** (Solidity/Full stack) -> In progress 
 - Many more 
 
 ## Languages/skills
