@@ -1,6 +1,6 @@
 
 ## Intro 
-👋 Hi, I’m @Contreux I'm an **iOS/FullStack/Blockchain** dev
+Hi, I’m @Contreux I'm an **iOS/FullStack/Blockchain** dev
 with a finance background. Dev is my day job Twitter is my night job.
 
 ## Projects/Companies
