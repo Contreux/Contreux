@@ -14,6 +14,7 @@ I've built:
 - **Olympus protocol fork** (Solidity/Full stack) -> Redistributed 
 - **NFT2.0 open listing NFT standard** (Solidity) -> In progress 
 - **Blockchain ETF protocol** (Solidity/Full stack) -> In progress 
+- **Appstore Review NLP Analyser** (python) -> use for product research
 - Many more 
 
 ## Languages/skills
